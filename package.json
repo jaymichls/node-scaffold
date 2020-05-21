@@ -1,0 +1,15 @@
+{
+  "name": "node-scaffold",
+  "version": "1.0.0",
+  "description": "Testing a node workspace in codeenvy",
+  "main": "index.js",
+  "repository": "git@github.com:jaymichls/node-scaffold.git",
+  "author": "Jason Michael",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.14.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
